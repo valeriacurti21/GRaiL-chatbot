@@ -1,7 +1,6 @@
 🚀 GRaiL Project: Knights of the Round Academy
 A futuristic TTRPG campaign portal with AI interaction
 
-![Banner Image Placeholder] (Space for Figma preview – coming soon!)
 
 🌌 Welcome to the Academy, Cadet
 As a UX/UI designer and TTRPG enthusiast, I’ve crafted this immersive experience for our Knights of the Round Academy campaign (by Fumble GDR). What began as a love letter to our mecha-filled futuristic saga evolved into a functional prototype featuring:
